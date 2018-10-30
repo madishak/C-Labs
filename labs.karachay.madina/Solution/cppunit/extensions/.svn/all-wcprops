@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions
+END
+RepeatedTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/RepeatedTest.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/Makefile.in
+END
+ExceptionTestCaseDecorator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/ExceptionTestCaseDecorator.h
+END
+TypeInfoHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TypeInfoHelper.h
+END
+TestSetUp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestSetUp.h
+END
+TestFactoryRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestFactoryRegistry.h
+END
+TestNamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestNamer.h
+END
+TestSuiteBuilderContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestSuiteBuilderContext.h
+END
+Orthodox.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/Orthodox.h
+END
+TestFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestFactory.h
+END
+TestFixtureFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestFixtureFactory.h
+END
+TestCaseDecorator.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestCaseDecorator.h
+END
+TestSuiteFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestSuiteFactory.h
+END
+TestDecorator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/TestDecorator.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/Makefile.am
+END
+HelperMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/HelperMacros.h
+END
+AutoRegisterSuite.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/extensions/AutoRegisterSuite.h
+END

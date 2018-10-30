@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (Solution.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  stdafx.cpp
+  Lab0.cpp
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(28): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(49): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\solution\lab0\lab0.cpp(76): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+cppunit.lib(TestFactoryRegistry.obj) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"

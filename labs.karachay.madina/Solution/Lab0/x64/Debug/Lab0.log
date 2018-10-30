@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Lab0.cpp
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(43): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(44): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\мадина\desktop\test itv\labs.karachay.madina\labs.karachay.madina\lab0\lab0.cpp(66): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Lab0.vcxproj -> C:\Users\Мадина\Desktop\test itv\labs.karachay.madina\Labs.Karachay.Madina\x64\Debug\Solution.exe

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (Solution.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Создание кода
+  0 of 233 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+LINK : fatal error LNK1105: не удается закрыть файл "G:\test itv\labs.karachay.madina\Solution\x64\Release\Lab0.exe"

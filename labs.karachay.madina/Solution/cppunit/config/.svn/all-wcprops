@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config
+END
+CppUnitApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/CppUnitApi.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/Makefile.in
+END
+SourcePrefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/SourcePrefix.h
+END
+config-bcb5.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/config-bcb5.h
+END
+config-msvc6.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/config-msvc6.h
+END
+SelectDllLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/SelectDllLoader.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/Makefile.am
+END
+config-mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/config-mac.h
+END
+config-evc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/config/config-evc4.h
+END

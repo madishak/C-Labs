@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools
+END
+XmlElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools/XmlElement.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools/Makefile.in
+END
+XmlDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools/XmlDocument.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools/Makefile.am
+END
+Algorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools/Algorithm.h
+END
+StringTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/tools/StringTools.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/ui/qt
+END
+TestRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/ui/qt/TestRunner.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/ui/qt/Makefile.in
+END
+QtTestRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/ui/qt/QtTestRunner.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/ui/qt/Makefile.am
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/ui/qt/Config.h
+END

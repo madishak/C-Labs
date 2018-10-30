@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin
+END
+PlugInManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/PlugInManager.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/Makefile.in
+END
+TestPlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/TestPlugIn.h
+END
+PlugInParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/PlugInParameters.h
+END
+DynamicLibraryManagerException.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/DynamicLibraryManagerException.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/Makefile.am
+END
+DynamicLibraryManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/DynamicLibraryManager.h
+END
+TestPlugInDefaultImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/rps/msk/!svn/ver/70843/Third/CppUnit-1.12.1/include/cppunit/plugin/TestPlugInDefaultImpl.h
+END
